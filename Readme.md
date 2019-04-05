@@ -1,12 +1,12 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/EnableCustomSql/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/EnableCustomSql/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/EnableCustomSql/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/EnableCustomSql/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/EnableCustomSql/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/EnableCustomSql/MainWindow.xaml.vb))
-* [UseCustomization.xaml](./CS/EnableCustomSql/UseCustomization.xaml) (VB: [UseCustomization.xaml.vb](./VB/EnableCustomSql/UseCustomization.xaml.vb))
+* [UseCustomization.xaml](./CS/EnableCustomSql/UseCustomization.xaml) (VB: [UseCustomization.xaml](./VB/EnableCustomSql/UseCustomization.xaml))
 * [UseCustomization.xaml.cs](./CS/EnableCustomSql/UseCustomization.xaml.cs) (VB: [UseCustomization.xaml.vb](./VB/EnableCustomSql/UseCustomization.xaml.vb))
 * [UseDataSourceWizardSettings.xaml](./CS/EnableCustomSql/UseDataSourceWizardSettings.xaml) (VB: [UseDataSourceWizardSettings.xaml](./VB/EnableCustomSql/UseDataSourceWizardSettings.xaml))
-* [UseDataSourceWizardSettings.xaml.cs](./CS/EnableCustomSql/UseDataSourceWizardSettings.xaml.cs) (VB: [UseDataSourceWizardSettings.xaml](./VB/EnableCustomSql/UseDataSourceWizardSettings.xaml))
+* [UseDataSourceWizardSettings.xaml.cs](./CS/EnableCustomSql/UseDataSourceWizardSettings.xaml.cs) (VB: [UseDataSourceWizardSettings.xaml.vb](./VB/EnableCustomSql/UseDataSourceWizardSettings.xaml.vb))
 <!-- default file list end -->
 # Report Designer for WPF - How to enable end-users to execute custom SQL
 
