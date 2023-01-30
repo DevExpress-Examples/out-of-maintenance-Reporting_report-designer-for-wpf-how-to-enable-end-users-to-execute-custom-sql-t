@@ -1,14 +1,15 @@
-﻿Imports System.Windows.Controls
+Imports System.Windows.Controls
 
 Namespace EnableCustomSql
-	''' <summary>
-	''' Interaction logic for UseDataSourceWizardSettings.xaml
-	''' </summary>
-	Partial Public Class UseDataSourceWizardSettings
-		Inherits UserControl
 
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+    ''' <summary>
+    ''' Interaction logic for UseDataSourceWizardSettings.xaml
+    ''' </summary>
+    Public Partial Class UseDataSourceWizardSettings
+        Inherits UserControl
+
+        Public Sub New()
+            Me.InitializeComponent()
+        End Sub
+    End Class
 End Namespace
